@@ -41,7 +41,7 @@ openai.api_key = os.getenv("sk-proj-ndcDyshtu7DzBi60SAa4mbrpL4eLveOKjX0Zo4sjdTVQ
 
 timestamp = datetime.now(timezone.utc)
 
-TOKEN = "MTQ3MTU0MTMxNjcwOTI1MzIyNQ.GUjeis.3F3q04majdf-wbVaz7pu4k109e5qBevyscTt7M"
+TOKEN = "INSERT YOUR BOT'S TOKEN"
 
 intents = discord.Intents.all()
 intents.message_content = True  # Required for most commands
